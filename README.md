@@ -40,7 +40,7 @@ Place holder
 - Disk image of [ZRC512 + VGARC](Software/cf_image_romwbw_zrc512_working_vgarc.zip) to support standalone computer with monochrome text VGA display and PS2 keyboard.
 
 ### Manuals
-Online discussions
+### Online discussions
 Discussion about ZRC512 on [Google forum](https://groups.google.com/g/retro-comp/c/bILDMVI97vo). There were informative discussions about different flavors of WS2812D starting from Dec 19 2023.
 
 
