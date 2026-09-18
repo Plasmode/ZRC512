@@ -30,6 +30,6 @@ doBlue:
 ;more LED, so on...
 ```
 ### TO DO
-upload picture of ZRC512 driving
+upload picture of ZRC512 driving WS2812B
 
 upload demo program
