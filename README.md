@@ -36,7 +36,7 @@ Place holder
 - ROM-less RomWBW for ZRC512
 - [CF disk image](Software/zrc512_romwbw_hd1k_zrc512_combo.zip) of ZRC512 monitor and RomWBW. Unzip this file and use Win32DiskImagers to copy the image to 64meg or larger CF disk
 - [ZRC512 addition to RomWBW source](Software/zrc512_addition_to_romwbw_source.zip). Future update of RomWBW should include these files. This zip file includes a command file “BuildZRC512.cmd” and a directory “ZRC512” that go into RomWBW\Source directory.
-- [Driving WS2812 NeoPixel](Driving_WS2812B_neopixel.md) LED. The linked page describe the operation for bit-bang WS2812 LED. A demo program included.
+- [Driving WS2812 NeoPixel](Software/Driving_WS2812B_neopixel.md) LED. The linked page describe the operation for bit-bang WS2812 LED. A demo program included.
 - Disk image of [ZRC512 + VGARC](Software/cf_image_romwbw_zrc512_working_vgarc.zip) to support standalone computer with monochrome text VGA display and PS2 keyboard.
 
 ### Manuals
